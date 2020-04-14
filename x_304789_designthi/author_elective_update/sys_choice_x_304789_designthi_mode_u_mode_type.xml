@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_mode_type" table="x_304789_designthi_mode" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>-- Edit this --</dependent_value>
+            <element>u_mode_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>-- New choice --</label>
+            <language>en</language>
+            <name>x_304789_designthi_mode</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 23:25:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>064fba9f2fc01410c6bfa1fef699b656</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 23:38:42</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_mode_type</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Realize offering</label>
+            <language>en</language>
+            <name>x_304789_designthi_mode</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 23:38:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d642075f2f041410c6bfa1fef699b68c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 23:47:25</sys_updated_on>
+            <value>realize offering</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_mode_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sense intent</label>
+            <language>en</language>
+            <name>x_304789_designthi_mode</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 23:38:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a42075f2f041410c6bfa1fef699b681</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 23:38:42</sys_updated_on>
+            <value>sense intent</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_mode_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Know context</label>
+            <language>en</language>
+            <name>x_304789_designthi_mode</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 23:38:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9642075f2f041410c6bfa1fef699b683</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 23:38:42</sys_updated_on>
+            <value>know context</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_mode_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Know people</label>
+            <language>en</language>
+            <name>x_304789_designthi_mode</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 23:38:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d242075f2f041410c6bfa1fef699b685</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 23:38:42</sys_updated_on>
+            <value>know people</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_mode_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Frame insights</label>
+            <language>en</language>
+            <name>x_304789_designthi_mode</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 23:38:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1242075f2f041410c6bfa1fef699b687</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 23:38:42</sys_updated_on>
+            <value>frame insights</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_mode_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Explore concepts</label>
+            <language>en</language>
+            <name>x_304789_designthi_mode</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 23:38:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e42075f2f041410c6bfa1fef699b688</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 23:38:42</sys_updated_on>
+            <value>explore concepts</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_mode_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Frame solutions</label>
+            <language>en</language>
+            <name>x_304789_designthi_mode</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 23:38:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a42075f2f041410c6bfa1fef699b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 23:38:42</sys_updated_on>
+            <value>frame solutions</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_mode_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Realize offerings</label>
+            <language>en</language>
+            <name>x_304789_designthi_mode</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 23:47:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce440b9f2f041410c6bfa1fef699b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 23:47:25</sys_updated_on>
+            <value>realize offerings</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_mode_type</element>
+            <name>x_304789_designthi_mode</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 23:25:35</sys_created_on>
+            <sys_id>4e4fba9f2fc01410c6bfa1fef699b656</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_mode_type</sys_name>
+            <sys_package display_value="DesignThinking" source="x_304789_designthi">ac147d0b2f08d010c6bfa1fef699b627</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DesignThinking">ac147d0b2f08d010c6bfa1fef699b627</sys_scope>
+            <sys_update_name>sys_choice_x_304789_designthi_mode_u_mode_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 23:25:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_initiative" label="Initiative" language="en" table="x_304789_designthi_activity">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_initiative</element>
+            <help/>
+            <hint/>
+            <label>Initiative</label>
+            <language>en</language>
+            <name>x_304789_designthi_activity</name>
+            <plural>Initiatives</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 23:54:59</sys_created_on>
+            <sys_id>38060bdf2f041410c6bfa1fef699b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Initiative</sys_name>
+            <sys_package display_value="DesignThinking" source="x_304789_designthi">ac147d0b2f08d010c6bfa1fef699b627</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DesignThinking">ac147d0b2f08d010c6bfa1fef699b627</sys_scope>
+            <sys_update_name>sys_documentation_x_304789_designthi_activity_u_initiative_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 23:54:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

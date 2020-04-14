@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="a758c2db2f801410c6bfa1fef699b684" sys_domain="global" table="x_304789_designthi_initiative" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>ce4f46df2f801410c6bfa1fef699b649</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_owner</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>424f46df2f801410c6bfa1fef699b64a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>c24f46df2f801410c6bfa1fef699b64a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_team</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>464f46df2f801410c6bfa1fef699b64a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_product</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>c64f46df2f801410c6bfa1fef699b64a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_offering</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>4a4f46df2f801410c6bfa1fef699b64a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>ca4f46df2f801410c6bfa1fef699b64a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>4e4f46df2f801410c6bfa1fef699b64a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>ce4f46df2f801410c6bfa1fef699b64a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>424f46df2f801410c6bfa1fef699b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stage</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>c24f46df2f801410c6bfa1fef699b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>464f46df2f801410c6bfa1fef699b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+            <sys_id>c64f46df2f801410c6bfa1fef699b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_304789_designthi_initiative</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-13 19:25:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a758c2db2f801410c6bfa1fef699b684</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_304789_designthi_initiative</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DesignThinking" source="x_304789_designthi">ac147d0b2f08d010c6bfa1fef699b627</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DesignThinking">ac147d0b2f08d010c6bfa1fef699b627</sys_scope>
+            <sys_update_name>sys_ui_section_a758c2db2f801410c6bfa1fef699b684</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-13 19:25:39</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DesignThinking">ac147d0b2f08d010c6bfa1fef699b627</application>
+        <file_path/>
+        <instance_id>a93d7a48dbacbb404d2bac44d49619d4</instance_id>
+        <instance_name>dev77565</instance_name>
+        <name>sys_ui_section_a758c2db2f801410c6bfa1fef699b684</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="a758c2db2f801410c6bfa1fef699b684" sys_domain="global" table="x_304789_designthi_initiative" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>ce4f46df2f801410c6bfa1fef699b649</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_owner</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>424f46df2f801410c6bfa1fef699b64a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>c24f46df2f801410c6bfa1fef699b64a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_team</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>464f46df2f801410c6bfa1fef699b64a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_product</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>c64f46df2f801410c6bfa1fef699b64a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_offering</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>4a4f46df2f801410c6bfa1fef699b64a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>ca4f46df2f801410c6bfa1fef699b64a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_at</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>4e4f46df2f801410c6bfa1fef699b64a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>closed_at</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>ce4f46df2f801410c6bfa1fef699b64a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>424f46df2f801410c6bfa1fef699b64b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_stage</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>c24f46df2f801410c6bfa1fef699b64b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>464f46df2f801410c6bfa1fef699b64b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>watch_list</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:55:52</sys_created_on><sys_id>c64f46df2f801410c6bfa1fef699b64b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_304789_designthi_initiative" sys_domain="global" view="Default view">a758c2db2f801410c6bfa1fef699b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:55:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_304789_designthi_initiative</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-13 19:25:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a758c2db2f801410c6bfa1fef699b684</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_304789_designthi_initiative</sys_name><sys_overrides/><sys_package display_value="DesignThinking" source="x_304789_designthi">ac147d0b2f08d010c6bfa1fef699b627</sys_package><sys_policy/><sys_scope display_value="DesignThinking">ac147d0b2f08d010c6bfa1fef699b627</sys_scope><sys_update_name>sys_ui_section_a758c2db2f801410c6bfa1fef699b684</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-13 19:25:39</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1777675816</payload_hash>
+        <record_name>initiative</record_name>
+        <reverted_from/>
+        <source>a0147d0b2f08d010c6bfa1fef699b62a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 19:55:52</sys_created_on>
+        <sys_id>8a4f46df2f801410c6bfa1fef699b64d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171751cc76e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 19:55:52</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>064f46dfa28014102665838637b7144d</update_guid>
+        <update_guid_history>064f46dfa28014102665838637b7144d:-1777675816,e358c2db3080141039217ee5aacccd88:-1576145172</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 20:04:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2c2de5fe799f4b8d8775598d2503e9b9</sys_id>
+        <sys_metadata>a758c2db2f801410c6bfa1fef699b684</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_304789_designthi_initiative</sys_name>
+        <sys_package display_value="DesignThinking" source="x_304789_designthi">ac147d0b2f08d010c6bfa1fef699b627</sys_package>
+        <sys_parent display_value="initiative">10f325172f401410c6bfa1fef699b6be</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DesignThinking">ac147d0b2f08d010c6bfa1fef699b627</sys_scope>
+        <sys_scope_delete display_value="">27b5c97a18d048b699675d083cb35169</sys_scope_delete>
+        <sys_update_name>sys_ui_section_a758c2db2f801410c6bfa1fef699b684</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_a758c2db2f801410c6bfa1fef699b684">8a4f46df2f801410c6bfa1fef699b64d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 20:04:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

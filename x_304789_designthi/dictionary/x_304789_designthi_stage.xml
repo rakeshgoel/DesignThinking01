@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_304789_designthi_element" label="stage" max_length="40" name="x_304789_designthi_stage" type="collection">
+        <element attributes="encode_utf8=false" label="Initiative" mandatory="true" max_length="32" name="u_initiative" reference="x_304789_designthi_initiative" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Stage Type" max_length="40" name="u_stage_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Observation" sequence="0" value="observation"/>
+                <element inactive_on_update="false" label="Analysis" sequence="1" value="analysis"/>
+                <element inactive_on_update="false" label="Synthesis" sequence="2" value="synthesis"/>
+                <element inactive_on_update="false" label="Realization" sequence="3" value="realization"/>
+            </choice>
+        </element>
+    </element>
+</database>

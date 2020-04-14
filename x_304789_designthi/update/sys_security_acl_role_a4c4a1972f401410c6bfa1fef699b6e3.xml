@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-13 16:50:04</sys_created_on>
+        <sys_id>a4c4a1972f401410c6bfa1fef699b6e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_304789_designthi_activity.x_304789_designthi.activity_user</sys_name>
+        <sys_package display_value="DesignThinking" source="x_304789_designthi">ac147d0b2f08d010c6bfa1fef699b627</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DesignThinking">ac147d0b2f08d010c6bfa1fef699b627</sys_scope>
+        <sys_security_acl display_value="x_304789_designthi_activity">2cc4a1972f401410c6bfa1fef699b6e0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a4c4a1972f401410c6bfa1fef699b6e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-13 16:50:04</sys_updated_on>
+        <sys_user_role display_value="x_304789_designthi.activity_user" name="x_304789_designthi.activity_user">d0c4e5172f401410c6bfa1fef699b686</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_304789_designthi_element" label="mode" max_length="40" name="x_304789_designthi_mode" type="collection">
+        <element attributes="encode_utf8=false" label="Initiative" mandatory="true" max_length="32" name="u_initiative" reference="x_304789_designthi_initiative" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Mode type" mandatory="true" max_length="40" name="u_mode_type" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="-- Edit this --" inactive="true" inactive_on_update="true" label="-- New choice --" sequence="0" value="-- New choice --"/>
+                <element inactive="true" inactive_on_update="true" label="Realize offering" sequence="0" value="realize offering"/>
+                <element inactive_on_update="false" label="Sense intent" sequence="0" value="sense intent"/>
+                <element inactive_on_update="false" label="Know context" sequence="1" value="know context"/>
+                <element inactive_on_update="false" label="Know people" sequence="2" value="know people"/>
+                <element inactive_on_update="false" label="Frame insights" sequence="3" value="frame insights"/>
+                <element inactive_on_update="false" label="Explore concepts" sequence="4" value="explore concepts"/>
+                <element inactive_on_update="false" label="Frame solutions" sequence="5" value="frame solutions"/>
+                <element inactive_on_update="false" label="Realize offerings" sequence="6" value="realize offerings"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" dependent="u_initiative" dependent_on_field="u_initiative" label="Stage" mandatory="true" max_length="32" name="u_stage" reference="x_304789_designthi_stage" type="reference" use_dependent_field="true"/>
+    </element>
+</database>
