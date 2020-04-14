@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="x_304789_designthi_element" label="initiative" max_length="40" name="x_304789_designthi_initiative" type="collection">
+    <element extends="x_304789_designthi_element" label="initiative" max_length="40" name="x_304789_designthi_initiative" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Current Stage" max_length="40" name="u_current_stage" type="string">
             <choice>
                 <element inactive_on_update="false" label="Observation" sequence="0" value="observation"/>

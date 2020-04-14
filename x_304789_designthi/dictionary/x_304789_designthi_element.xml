@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="element" max_length="40" name="x_304789_designthi_element" sizeclass="0" text_index="true" type="collection">
+    <element extends="task" label="element" max_length="40" name="x_304789_designthi_element" sizeclass="3" text_index="true" type="collection">
         <element label="Offering" max_length="100" name="u_offering" type="string"/>
         <element attributes="encode_utf8=false" label="Owner" max_length="32" name="u_owner" reference="sys_user" type="reference"/>
         <element label="Plan" max_length="4000" name="u_plan" type="string"/>
