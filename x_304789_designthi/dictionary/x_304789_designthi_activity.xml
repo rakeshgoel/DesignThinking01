@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="x_304789_designthi_element" label="activity" max_length="40" name="x_304789_designthi_activity" sizeclass="0" type="collection">
-        <element attributes="encode_utf8=false" label="Initiative" mandatory="true" max_length="32" name="u_initiative" reference="x_304789_designthi_initiative" type="reference"/>
-        <element attributes="encode_utf8=false" label="Mode" mandatory="true" max_length="32" name="u_mode" reference="x_304789_designthi_mode" type="reference"/>
-        <element attributes="encode_utf8=false" label="Stage" mandatory="true" max_length="32" name="u_stage" reference="x_304789_designthi_stage" type="reference"/>
-        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Techniques" max_length="1024" name="u_techniques" reference="x_304789_designthi_technique" type="glide_list"/>
-    </element>
-</database>
